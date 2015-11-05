@@ -10,6 +10,8 @@ evaluated and some of its shortcomings are highlighted. To the best of our
 knowledge, this is the first attempt at using connected operators for page 
 segmentation.
 
-Non-text objects with the bounding boxes marked: [Sample results](https://www.dropbox.com/sh/99v74c9ug9luqv8/AADPczwl_nMa_HqPH3mxDn5Ja?dl=0)
+Non-text objects with the bounding boxes marked: 
+[Sample results](https://www.dropbox.com/sh/99v74c9ug9luqv8/AADPczwl_nMa_HqPH3mxDn5Ja?dl=0)
 
-Individual non-text objects reconstructed from nodes, the subimages of which have qualified as object segments: [Sample results](https://www.dropbox.com/sh/hdff4konibxyp5u/AADR6IxgvyFKz-uE1QcaN0ZGa?dl=0)
+Individual non-text objects reconstructed from nodes, the subimages of which have qualified as object segments: 
+[Sample results](https://www.dropbox.com/sh/26lw325zde9t91q/AAAiBiq6D1VQrcX0IAaZFf78a?dl=0)
